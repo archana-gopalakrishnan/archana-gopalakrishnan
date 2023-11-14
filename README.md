@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on building File Service at IBM Cloud.
+- 🌱 I’m currently learning ML and working on some Cloud certifications.
+- 👯 I’m looking to collaborate on just about any project really. My interests are vast and pretty varied. I've dabbled in Cloud Computing, AI, Data Science, and Web development. Just shoot me a message 📫 on [LinkedIn](https://www.linkedin.com/in/archana-gopal/) and we can go from there.
+- 😄 Pronouns: she/her
+  
 <!--
 **archana-gopalakrishnan/archana-gopalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
